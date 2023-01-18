@@ -17,7 +17,7 @@ Seja bem vindo(a)!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="40" />   
-<img align="right" alt="gleysi-pic" src="gif/gleysi-gif.gif?raw=true" height="240" width="240" style="border-radius=50%"/>
+<img align="right" alt="gleysi-pic" src="gif/gleysi-gif.gif?raw=true" height="200" width="200" style="border-radius=50%"/>
 </div>
 
 ##
