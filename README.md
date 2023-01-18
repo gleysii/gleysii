@@ -4,13 +4,12 @@ Seja bem vindo(a)!
 
 - 🌱 Estou estudando front-end
 - 📫 Contato: gleysibianchi@gmail.com
-- 😄 Pronomes: ela/dela<br>
-
-![Gleysi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gleysii&show_icons=true&theme=radical)
+- 😄 Pronomes: ela/dela
 
 <div>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=gleysii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/gleysii">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysii&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleysii&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
